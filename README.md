@@ -106,6 +106,10 @@ pip install pandas scikit-learn tensorflow transformers torch nltk wordcloud mat
 jupyter notebook ProjetMLDV.ipynb
 ```
 
+##  Réalisé par
+- Hibat Allah Hadj Kacem
+- Amal Ktiti
+
 ##  Contexte académique
 - **Établissement** : Faculté des Sciences de Bizerte, Université de Carthage
 - **Classe** : CI1
